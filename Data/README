@@ -1,0 +1,2 @@
+This "Data" folder contains the 2 data tables called in the "Phytoplankton_O2.R" script. Data sources are this blog post: https://scottstoll.com/how-much-oxygen-is-in-the-atmosphere/ (and sources therein) 
+and this article https://doi.org/10.1016/j.scib.2018.07.023 (figure 4)
