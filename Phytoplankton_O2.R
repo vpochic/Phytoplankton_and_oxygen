@@ -1,4 +1,4 @@
-### Phytoplankton does NOT produce 50% of the oxygen we breathe ###
+### Phytoplankton do NOT produce 50% of the oxygen we breathe ###
 
 # R script for a blog post on phycoplankton.wordpress.com
 
