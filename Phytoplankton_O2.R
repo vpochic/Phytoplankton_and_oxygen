@@ -2,12 +2,11 @@
 
 # R script for a blog post on phycoplankton.wordpress.com
 
-# V. POCHIC, 2025/03/23
+# V. POCHIC, 2025/03/24
 
 ### Packages ####
 library(tidyverse)
 library(packcircles)
-library(RColorBrewer)
 
 ### Data ####
 
